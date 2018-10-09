@@ -14,7 +14,7 @@ The app will then invoke DarkSky weather api with the location information from 
 3. Weather forecast for the rest of the day
 4. Weather forecast for the rest of the week
 
-This project teaches the following:
+This project was used to learn the following:
 1. To make web api calls from NodeJS
 2. Usage of promises and promise chaining
 3. Usage of Yargs package
