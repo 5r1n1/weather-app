@@ -2,12 +2,15 @@
   "name": "weather-app",
   "version": "1.0.0",
   "description": "Weather App built as part of NodeJS Bootcamp online course",
-  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/5r1n1/weather-app.git"
+  }
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Srinivas Gopalakrishnan",
+  "author": "5r1n1",
   "license": "ISC",
   "dependencies": {
     "request": "^2.88.0",
